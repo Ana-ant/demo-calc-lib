@@ -2,6 +2,8 @@
 A simple calculator library for basic arithmetic operations.
 
 © 2025 Pau Erola, University of Bristol
+
+
 """
 
 def add(a, b):
