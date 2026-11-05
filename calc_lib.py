@@ -2,6 +2,8 @@
 A simple calculator library for basic arithmetic operations.
 
 © 2025 Pau Erola, University of Bristol
+
+
 """
 
 def add(a, b):
@@ -22,7 +24,7 @@ def divide(a, b):
         raise ValueError("Cannot divide by zero")
     return a / b
 
-def power(a,b):
-    """THIS IS A NEW FUNCTION... Power a^b"""
+def power_function(a,b):
+    """THE NEW FUNCTION... Power a^b"""
     return a**b
 
